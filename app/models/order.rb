@@ -7,4 +7,7 @@ class Order < ApplicationRecord
 
   validates :recipient_name, :bouquet_id, :order_type_id,
     :shipping_option_id, :first_delivery_date, presence: true
+
+  scope :billed, -> { where(state: 'billed') }
+
 end
