@@ -1,10 +1,8 @@
-# Bloom & Wild Backend Test
+# Tech Test
 
-Hello and welcome to the Bloom & Wild coding exercise!
+Hello and welcome to the another coding exercise!
 
 Please read through the introduction below and complete the Tasks.
-
-When you have finished please raise a PR and email gideon@bloomandwild.com. If you have any questions along the way feel free to drop him an email too.
 
 ## Introduction
 
